@@ -1,5 +1,5 @@
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<div align="center"> <img src="https://github.com/Mudasai25/Mudasai25/blob/main/Mudasai25-banner.png"> </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mudasai25&label=Profile%20views&color=0e75b6&style=flat" alt="mudasai25" /> </p>
 
 - 🔭 I’m interested in **Problem solving and Full stack development**
